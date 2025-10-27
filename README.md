@@ -21,7 +21,7 @@ theme:
 Enfin, importer le style dans `assets/sass/main.sass`.
 
 ```sass
-@import "osuny-plugin-centered-header/footer"
+@import "osuny-plugin-centered-footer/style"
 ```
 
 ## Exemples 
