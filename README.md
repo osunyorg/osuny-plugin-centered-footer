@@ -1,4 +1,4 @@
-# Plugin Osuny : centered header
+# Plugin Osuny : centered footer
 
 Ce plugin centre le pied de page en desktop.
 
