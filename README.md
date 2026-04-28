@@ -30,4 +30,4 @@ Enfin, importer le style dans `assets/sass/main.sass`.
 ## Exemples 
 
 - https://www.postgrowth.life
-- https://prototype.frenchcraftguild.osuny.site
+- https://prototype.frenchcraftguild.fr/fr/
