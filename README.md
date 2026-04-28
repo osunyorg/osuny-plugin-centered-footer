@@ -2,6 +2,9 @@
 
 Ce plugin centre le pied de page en desktop.
 
+<img width="1440" height="787" alt="image" src="https://github.com/user-attachments/assets/061e1977-926c-478d-8993-58ed7edfbf84" />
+
+
 ## Utilisation
 
 D'abord, importer le plugin dans le site.
